@@ -1,4 +1,4 @@
-# Magisk Module: IQOO 12 Pro Spoofer
+# Magisk Module: fpsUnlocker
 
 This Magisk module changes your mobile device model to an IQOO 12 Pro, allowing you to unlock 120fps in games like PUBG Mobile and Call of Duty Mobile.
 
